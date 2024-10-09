@@ -1,6 +1,6 @@
 # NCIFAR10
 
-A PyTorch implementation of the Natural CIFAR-10 (NCIFAR10) dataset and a collection of deep learning models and utilities for image classification tasks. This repository provides an easy-to-use framework for training and evaluating models on the CIFAR-10 dataset with added augmentations or modifications specific to NCIFAR10.
+keras implementation of the Natural CIFAR-10 (NCIFAR10) dataset and a collection of deep learning models and utilities for image classification tasks. This repository provides an easy-to-use framework for training and evaluating models on the CIFAR-10 dataset with added augmentations or modifications specific to NCIFAR10.
 
 ## Introduction
 
